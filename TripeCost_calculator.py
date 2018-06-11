@@ -1,7 +1,7 @@
 '''
 Trip cost calculator
 ************************
-b21_ptCost = petrol cost
+b21_ptCost = gaz cost
 b22_lpkm = l/100km
 b23_trvl = traveled km
 ************************
